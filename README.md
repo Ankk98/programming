@@ -40,7 +40,12 @@ To do so, first create a issue with the task you are doing, for example: "Issue 
   ```sh
   $ git clone https://github.com/your-username/programming.git
   ```
-
+  
+* Change Directory
+  ```sh
+  $ cd programming
+  ```
+  
 * Create a branch
 
   ```sh
